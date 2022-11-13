@@ -2,8 +2,6 @@
 // Created by Udbhav on 29/07/2020.
 //
 
-#ifndef HW9_OPTION_H
-#define HW9_OPTION_H
 #include <iostream>
 
 class Option
